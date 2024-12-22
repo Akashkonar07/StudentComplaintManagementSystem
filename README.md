@@ -46,17 +46,24 @@ Student: After logging in, students can file complaints and view the status of t
 Admin: Admins can log in based on their assigned role and view the complaints they are responsible for resolving.
 
 **Screenshots of student interface**
+
 ![main](https://github.com/user-attachments/assets/e89fa240-f488-44a7-95d6-0e76b2e1a60c)
 ![file complaint](https://github.com/user-attachments/assets/c5a01851-4fb8-4851-8e53-801adc7cf39f)
 ![student dashboard](https://github.com/user-attachments/assets/c69a67b3-1bb0-43c7-9dfb-e55296ef84bd)
 
 
 **Contributing**
+
 *Fork the repository.
+
 *Create a new branch (git checkout -b feature-name).
+
 *Make your changes.
+
 *Commit your changes (git commit -am 'Add feature').
-*Push to the branch (git push origin feature-name).
+
+*Push to the branch (git push origin feature-name)..
+
 *Open a pull request.
 
 **License**
